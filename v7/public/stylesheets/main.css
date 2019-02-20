@@ -1,0 +1,7 @@
+/*selecting all images under thumbnail*/
+.thumbnail img {
+    width: 100%;
+}
+.thumbnail{
+    padding: 0;
+}
